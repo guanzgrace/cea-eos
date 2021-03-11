@@ -1,8 +1,8 @@
 Variable Name,Value,Lower Bound,Upper Bound
 cLevel1NurseryAdmissionPerDay,1171.75,937.4,1406.1
-cLevel1NursingCarePerDay,352,281.92,422.88
+cLevel1NursingCarePerDay,410.9,328.72,493.08
 cLevel2NICUAdmissionPerDay,5109.25,4087.4,6131.1
-cLevel2NursingCarePerDay,431,344.4,516.6
+cLevel2NursingCarePerDay,501.1,400.88,601.32
 cGentamicin1,34.245,27.4,41.09
 cAmpicillin1,99.68,79.75,119.62
 cInitialNICUTests,1137,909.6,1364.4
