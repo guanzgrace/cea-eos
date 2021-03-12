@@ -1,3 +1,8 @@
+
+#Use  https://stackoverflow.com/questions/21719578/confidence-interval-for-binomial-data-in-r 
+# https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Jeffreys_interval 
+
+
 library(readr)
 library(meta)
 library(tibble)

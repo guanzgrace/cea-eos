@@ -1,5 +1,5 @@
 ﻿Description,Value,Lower Bound,Upper Bound
-Child-Ototoxicity,0.734,0.598,0.871
-Child-NCD,0.52,0.3,0.75
+Child-Ototoxicity,0.83,0.77,0.89
+Child-NCD,0.67,0.56,0.74
 Mother-Ototoxicity or NCD,0.85,0.74,0.94
 Mother-Infant Death,0.92,0.6,0.99
