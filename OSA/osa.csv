@@ -1,0 +1,6 @@
+﻿Filename,Variable,Label,Base Case
+OSA/IllAppearing3OW.csv,pIllAppearingStrat3,Probability of an Infant Becoming Ill-Appearing during ECO,0.05136
+OSA/IllAppearingGreenOW.csv,pIllAppearingGreen,"Probability of an Infant Becoming Ill-Appearing after NSC classified ""Green"" Risk",0.01442
+OSA/IllAppearingYellowOW.csv,pIllAppearingBCPosYellow,"Probability of an Infant Becoming Ill-Appearing or Blood Culture+ after NSC classified ""Yellow"" Risk",0.15385
+OSA/RedOW.csv,pRed,"Probability of NSC classified ""Yellow"" Risk",0.03864
+OSA/YellowOW.csv,pYellow,"Probability of NSC classified ""Red"" Risk",0.09411
