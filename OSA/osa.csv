@@ -1,6 +1,3 @@
 ﻿Filename,Variable,Label,Base Case
-OSA/0IllAppearing3OW.csv,pIllAppearingStrat3,Probability of an Infant Becoming Ill-Appearing during ECO,0.05136
-OSA/0IllAppearingGreenOW.csv,pIllAppearingGreen,"Probability of an Infant Becoming Ill-Appearing after NSC classified ""Green"" Risk",0.01442
-OSA/0IllAppearingYellowOW.csv,pIllAppearingBCPosYellow,"Probability of an Infant Becoming Ill-Appearing or Blood Culture+ after NSC classified ""Yellow"" Risk",0.15385
-OSA/0RedOW.csv,pRed,"Probability of NSC classified ""Yellow"" Risk",0.03864
-OSA/0YellowOW.csv,pYellow,"Probability of NSC classified ""Red"" Risk",0.09411
+OSA/1OtoOW.csv,pOtotoxicity,Probability of ototoxicity after aminoglycoside exposure,0.01348
+OSA/1RedOW.csv,pRed,"Probability of an infant classified as ""Red"" risk by NSC",0.03864
