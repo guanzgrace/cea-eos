@@ -1,0 +1,3 @@
+﻿Filename,Variable,Label,Base Case
+Data/OSA_data/1OtoOW.csv,pOtotoxicity,Probability of ototoxicity after aminoglycoside exposure,0.01348
+Data/OSA_data/1RedOW.csv,pRed,"Probability of an infant classified as ""Red"" risk by NSC",0.03864
