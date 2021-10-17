@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Model>
-    <name>psa_backup</name>
+    <name>final</name>
     <type>0</type>
     <Metadata>
         <author>graceguan</author>
         <dateCreated>Thu Oct 29 13:29:03 PDT 2020</dateCreated>
         <versionCreated>0.3.0</versionCreated>
         <modifier>graceguan</modifier>
-        <dateModified>Thu Jul 01 17:29:35 PDT 2021</dateModified>
+        <dateModified>Sun Oct 17 15:13:31 PDT 2021</dateModified>
         <versionModified>0.3.0</versionModified>
     </Metadata>
     <DimInfo>
@@ -375,7 +375,7 @@
     </Parameter>
     <Parameter>
         <name>cImplementation2</name>
-        <expression>41.09*1*50/4500+cEHRImplementation</expression>
+        <expression>41.09*8*4*50/4500+cEHRImplementation</expression>
         <notes></notes>
         <sensMin>0</sensMin>
         <sensMax>2000</sensMax>
@@ -432,7 +432,7 @@
     </Parameter>
     <Parameter>
         <name>cEHRImplementation</name>
-        <expression>20.50*8/4500</expression>
+        <expression>20.50*40/4500</expression>
         <notes></notes>
     </Parameter>
     <Parameter>
