@@ -1,0 +1,29 @@
+﻿Study,Variable,X,N,Notes
+Verani et al.,pChorio,3.1,100,
+Braun et al.,pConcernNoChorio,1087,28162,Use of antibiotic treatment among mothers with no IPF and no CAM
+Dhudasia et al.,pYellow,173,6077,>=36 wk GA
+Dhudasia et al.,pRed,95,6077,>=36 wk GA
+Dhudasia et al.,pConcernGreen,104,5808,>=36 wk GA
+Dhudasia et al.,pConcernYellow,20,173,>=36 wk GA
+Bain et al.,pConcernECO,153,5937,>=35 wk GA
+Frymoyer et al.,pConcernECO,370,9986,Percentage of neonates exposed to ampicillin during Sust period
+Braun et al.,pEOSNoChorio,13,1087,Table 2 CPEOI / Antibiotic treatment with negative cultures
+Braun et al.,pEOSChorio,5,1243,>=35 wk GA
+Kiser et al.,pEOSChorio,4,554,>=35 wk GA
+Carola et al.,pEOSChorio,5,1159,>=35 wk GA
+Joshi et al.,pEOSChorio,1,339,>=34 wk GA
+Dhudasia et al.,pEOSGreen,1,104,>=36 wk GA
+Dhudasia et al.,pEOSYellow,0.2,20,>=36 wk GA
+Dhudasia et al.,pEOSRed,2,95,>=36 wk GA
+Bain et al.,pEOSECO,0,153,>=35 wk GA
+Frymoyer et al.,pEOSECO,7,837,>=35 wk GA
+Joshi et al. 2022,pGBS,608,799,>=37 wk GA
+Joshi et al. 2022,pGBS,91,147,34-36 wk GA
+Kuzniewicz et al.,pReadmission,5,95543,Baseline period
+Kuzniewicz et al.,pReadmission,1,52881,Learning period
+Kuzniewicz et al.,pReadmission,3,56261,EOS Calculator period
+Bain et al.,pReadmission,0,5937,>=35 wk GA
+Frymoyer et al.,pReadmission,2,20394,
+Verani et al.,pDeath,75,3000,EOS has mortality of 2-3% among full-term infants
+Puopolo et al.,pMeningitis,120,3000,"""Meningitis was diagnosed clinically in 4% of EOS cases in CDC surveillance, but only half of the diagnoses were made by using CSF culture, reflecting the practical difficulties in performing lumbar puncture."""
+Gong et al.,pLTSMeningitis,19,100,Report a rate of 0.19

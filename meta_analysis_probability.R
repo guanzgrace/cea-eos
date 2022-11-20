@@ -8,7 +8,7 @@ library(meta)
 library(tibble)
 library(Hmisc)
 
-ptf <- read_csv("Dropbox/0_Stanford/Winter2020/HRP 263/Notebooks/Data/prob_random_effects_input.csv")
+ptf <- read_csv("~/Desktop/Notebooks/Data/prob_RE_input_0601.csv")
 
 ptf <- as_tibble(cbind(ptf, binconf(ptf$X, ptf$N)))
 
@@ -23,12 +23,9 @@ for (var in unique(ptf$Variable)) {
                     studlab = paste(Study),
                     comb.fixed = FALSE,
                     comb.random = TRUE,
-                    #method.tau = "SJ",
-                    #hakn = TRUE,
                     prediction = TRUE,
                     lower=Lower,
-                    upper=Upper)#,
-                    #sm = "SMD")
+                    upper=Upper)
   print(m.hksj)
   
   de <- list(variable=var, mean=m.hksj$TE.random,
@@ -39,7 +36,7 @@ for (var in unique(ptf$Variable)) {
 results$lower <- ifelse(results$lower < 0, 10^-6, results$lower)
 print(results)
 
-write.csv(results, "Dropbox/0_Stanford/Winter2020/HRP 263/Notebooks/Data/prob_random_effects_output.csv")
+write.csv(results, "~/Desktop/Notebooks/Data/prob_RE_output_0601.csv")
 
 
 
